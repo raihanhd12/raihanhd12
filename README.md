@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Im a Web Developer <!--and Quality assurance (QA) testers-->
 -----------------------------------------------------
 
-I am a fresh Informatics Engineering graduate experienced in web development with Laravel framework and MySQL, committed to delivering high-quality work. Skilled in working independently or in teams and able to work under pressure with a keen attention to detail. "I am also interested in pursuing a career as a QA tester. I value software quality and have knowledge of software testing methodologies. With experience in functional testing, integration testing, regression testing, and load testing. I am dedicated to continuous learning and enhancing my QA skills in a competitive work environment.
+I am a fresh Informatics Engineering graduate experienced in web development with Laravel framework and MySQL, committed to delivering high-quality work. Skilled in working independently or in teams and able to work under pressure with a keen attention to detail. I am also interested in pursuing a career as a QA tester. I value software quality and have knowledge of software testing methodologies. With experience in functional testing, integration testing, regression testing, and load testing. I am dedicated to continuous learning and enhancing my QA skills in a competitive work environment.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Here](http:bit.ly/PortfolioRaihanHD)
