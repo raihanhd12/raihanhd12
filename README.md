@@ -8,7 +8,7 @@ I am a fresh Informatics Engineering graduate experienced in web development wit
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Here](http:bit.ly/PortfolioRaihanHD)
-* ✉️  You can contact me at [fashfour487@gmail.com](mailto:raihanhd.dev@gmail.com)
+* ✉️  You can contact me at [raihanhd.dev@gmail.com](mailto:raihanhd.dev@gmail.com)
 * ⚡  Every weekend I do what I love most, absolutely nothing!
 <!-- * 🚀  I'm currently working on [blablabla](http://blablabla) -->
 <!-- * 🧠  I'm learning QA Tester and blablabla -->
