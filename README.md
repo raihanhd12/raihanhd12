@@ -16,7 +16,7 @@ I am a fresh Informatics Engineering graduate experienced in web development wit
 
 
 <a href="https://www.github.com/raihanhd12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/raihanhd12?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/raihanhd12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/raihanhd12?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://x.com/nahiarhd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nahiarhd?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a><a href="https://www.twitch.tv/raihanhd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/raihanhd?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
